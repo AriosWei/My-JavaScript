@@ -1,1 +1,1 @@
-# My-JavaScript
+# This is my first time using GitHub!
